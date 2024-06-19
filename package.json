@@ -26,7 +26,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@builder.io/sdk": "^1.0.40",
+    "@builder.io/sdk": "^2.2.2",
     "@figma/plugin-typings": "^1.73.0",
     "@material-ui/core": "^4.3.3",
     "@material-ui/icons": "^4.2.1",
